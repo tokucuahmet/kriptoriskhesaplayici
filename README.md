@@ -1,0 +1,2 @@
+# kriptoriskhesaplayici
+Kripto Risk Hesaplayıcısı
